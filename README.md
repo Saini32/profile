@@ -16,10 +16,6 @@
 ### 📜 Certifications
 - **ADSP(Advance Diploma in Software Programming) Course**:-  Disha Computer Institute
   ---
-  
-### 🌱 Currently Learning:  
-- Improving my *communication skills* and exploring teamwork opportunities.  
----
 
 ### 🎯 Goals:
 - Gain hands-on experience through real-world projects and internships.  
