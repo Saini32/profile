@@ -17,8 +17,7 @@
 - **ADSP(Advance Diploma in Software Programming) Course**:-  Disha Computer Institute
   ---
   
-### 🌱 Currently Learning:
-- *Data Structures and Algorithms* to strengthen my problem-solving abilities.  
+### 🌱 Currently Learning:  
 - Improving my *communication skills* and exploring teamwork opportunities.  
 ---
 
