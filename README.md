@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sneha  
+# Hi there! 👋 I'm Sneha Mourya
 
 ### 💻 About Me:
 - 🎓Education **Bachelor of Science in Information Technology** at JVM's Mehta Degree College, Expected Graduation: 2026
