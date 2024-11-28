@@ -8,9 +8,7 @@
 ---
 
 ### 🛠 Soft Skills:
-- **Problem-Solving**: Basic to intermediate level in problem-solving and algorithm implementation.
-- Teamwork and Collaboration: No prior experience in working with teams, but eager to learn and develop these skills.
-- Communication: Currently working on improving communication skills.
+- **Problem-Solving**: Basic to intermediate level in problem-solving.
 ---
 
 ### 📜 Certifications
