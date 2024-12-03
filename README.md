@@ -12,7 +12,7 @@
 ---
 
 ### 📜 Certifications
-- **ADSP(Advance Diploma in Software Programming) Course**:-  Disha Computer Institute
+- **ADSP(Advance Diploma in Software Programming) Course**|  Disha Computer Institute
   ---
 
 ### 🎯 Goals:
